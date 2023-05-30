@@ -14,6 +14,10 @@ If there is a problem in the installation of glm, go to the website of pyglm to 
 
 python Main.py 
 
+## Codes
+
+All the codes can be found on https://github.com/JMZ-kk/gdmc_2023
+
 ## Redstone structure show.
 
 see redstone.pdf
